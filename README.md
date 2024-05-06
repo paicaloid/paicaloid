@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Paicaloid's GitHub stats](https://github-readme-stats.vercel.app/api?username=paicaloid)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-m415140uv-paicaloids-projects.vercel.app/api/top-langs/?username=paicaloid)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-m415140uv-paicaloids-projects.vercel.app/)](https://github.com/anuraghazra/github-readme-stats)
