@@ -6,6 +6,8 @@
   </a>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=paicaloid&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Languages, Tools, and Skills 🛠
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
