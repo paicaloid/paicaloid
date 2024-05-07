@@ -6,7 +6,12 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paicaloid&theme=onedark&no-frame=true&column=-1" alt="github_trophy" />
+</div>
+<!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=paicaloid&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ### Languages, Tools, and Skills 🛠
 <div align="center">
